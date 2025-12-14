@@ -1,3 +1,14 @@
+# Copyright (c), 2025, cyans_nya
+#
+# Copyright (c) 2025, lovemilk
+#
+# This software is licensed under BSD 3-Clause License
+# (https://opensource.org/license/bsd-3-clause)
+#
+# The above copyright notice must be included distributions of
+# the software
+
+
 import sys
 from pathlib import Path
 from typing import List, Optional
